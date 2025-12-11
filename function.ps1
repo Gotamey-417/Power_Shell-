@@ -3,3 +3,9 @@ function Show-Message {
     
 }
 Show-Message
+
+
+function Hello {
+  Write-Host "PowerShell is working!"
+}
+Hello
